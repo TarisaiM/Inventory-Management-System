@@ -7,8 +7,7 @@ from tkinter import ttk, messagebox
 def get_inventory_usage_history(employee_id):
     try:
         # API endpoint that returns inventory booking data
-        url = "https://oracleapex.com/ords/tarisaimachoba/api/inventory/getreport"
-
+        url = "yourAPI URL"
        
         req = urllib.request.Request(
             url,
