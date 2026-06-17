@@ -25,7 +25,7 @@ The system uses:
 * **Oracle APEX** for the main database and web application
 * **Python** for integration and employee-side tools
 
-##System Components
+## System Components
 
 1. Oracle APEX (Main System)
 
