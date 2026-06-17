@@ -2,7 +2,7 @@
 # Inventory Management System
 
 ## Live Admin Interface System
-🔗 [View Inventory Usage System](https://oracleapex.com/ords/r/ifs_354/tech-inn-inventory-management-system224045/view-inventory-usage?session=113271928811090)
+🔗 [Tech-Inn Inventory Management System](https://oracleapex.com/ords/r/ifs_354/tech-inn-inventory-management-system224045/home?session=113271928811090)
 
 ## Case Study / Problem
 
