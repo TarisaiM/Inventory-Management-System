@@ -1,6 +1,9 @@
 
 # Inventory Management System
 
+## Live Admin Interface System
+🔗 [View Inventory Usage System](https://oracleapex.com/ords/r/ifs_354/tech-inn-inventory-management-system224045/view-inventory-usage?session=113271928811090)
+
 ## Case Study / Problem
 
 A company is growing quickly, from 10 employees to 100 employees across different offices and labs. It uses various types of equipment such as smart devices, industrial machines, and powerful computers for development and data analysis.
